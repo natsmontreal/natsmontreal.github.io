@@ -3,7 +3,7 @@ layout: default
 bodyClass: page-team-list
 ---
 
-<div class="intro">
+<div class="intro" style="padding-bottom: 0px">
     <div class="container">
         <div class="row justify-content-start">
             <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
@@ -36,7 +36,8 @@ bodyClass: page-team-list
                     <a target="_blank" href="{{ team.linkedinurl }}">Website</a>
                     {% endif %}
                 </div>
-                <div class="team-content">{{ team.content | truncate: 120 }}</div>
+                <!-- <div class="team-content">{{ team.content | truncate: 120 }}</div> -->
+                <div class="team-content">{{ team.content }}</div>
             </div>
         </div>
         {% endfor %}

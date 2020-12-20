@@ -10,4 +10,3 @@ weight: 4
 layout: team
 ---
 
- Blurb, social media links and picture needed here!

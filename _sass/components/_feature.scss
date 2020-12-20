@@ -5,9 +5,9 @@
   padding: 20px;
   background-color: #ffffff;
   display: flex;
-  align-items: center;
+  align-items: left;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   .feature-image {
     flex: 0 0 auto;
     width: 80px;
@@ -26,4 +26,8 @@
     margin-bottom: 0;
     margin-top: auto;
   }
+}
+
+.feature > h2 {
+  margin-bottom: 20px;
 }

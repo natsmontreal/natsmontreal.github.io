@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  height: 100%;
   .team-image {
     height: 60px;
     width: 60px;
@@ -25,6 +26,7 @@
       margin: 0;
       font-size: 12px;
       font-weight: 500;
+      line-height: 18px;
     }
   }
   .team-content {

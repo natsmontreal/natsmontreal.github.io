@@ -5,7 +5,7 @@ bodyClass: page-contact
 ---
 
 ### President: 
-Juanita Marchand Knight  
+J. Marchand Knight  
 juanita.marchand[at]gmail.com
 
 
