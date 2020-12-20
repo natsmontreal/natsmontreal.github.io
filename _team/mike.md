@@ -2,12 +2,12 @@
 title: 'Mike Fan'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: ''
-jobtitle: 'Social Media and Events Chair'
-linkedinurl: ""
+image: 'images/team/Mike.jpg'
+jobtitle: 'Social Media and Events Chair <br> Président/e des médias sociaux et des événements <br> (They/Them/Theirs)'
+linkedinurl: "http://www.mikezfan.com"
 promoted: true
 weight: 4
 layout: team
 ---
 
-Blurb, social media links and picture needed here!
+ Blurb, social media links and picture needed here!

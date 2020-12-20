@@ -1,17 +1,14 @@
 [
   {
-    "title": "Event 1",
-    "description": "Description.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Trans Voice Workshop [upcoming]",
+    "description": "A reboot of our previously cancelled workshop on trans voice. Currently, we are envisioning a 2-part series. The first short workshop would be ‘trans 101 for the voice studio’, and the second workshop would address specific questions from our members arising from the first workshop.",
   },
   {
-    "title": "Event 2",
-    "description": "Description.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Student Presentations [upcoming]",
+    "description": "A series of student presentations to highlight voice research. This will provide a great opportunity for student researchers to get a NATS presentation under their belts. We are thinking of holding a couple of these in the evening, perhaps from 7-8pm. Bring your favourite cocktail, sit back, and listen!",
   },
   {
-    "title": "Event 3",
-    "description": "Description.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Wine & Wimpers [upcoming]",
+    "description": "We want to provide a space for voice professionals to come together and chat – informally.",
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: 'About NATS'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
@@ -18,6 +18,8 @@ Nos membres sont dédiés à la réalisation de trois objectifs : l’education 
  
 
 Our registered charitable organization number is 88627 8381 RR0001.
+
+<a href="https://www.nats.org/">Official NATS Webpage</a>
 
 <!-- 
 ## Ne verba patulosque numen vix libet

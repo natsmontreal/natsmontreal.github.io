@@ -18,6 +18,10 @@ tania.nazare[at]gmail.com
 Susan Blyth-Schofield  
 sblythschofield[at]yahoo.ca
 
+
+## Follow us on social media:
+<a href="https://www.facebook.com/NATS-International-Chapitre-Montreal-564989387191449">Facebook</a> | <a href="https://twitter.com/NATSMontreal">Twitter</a> | <a href="https://www.instagram.com/natsmontreal/">Instagram</a>  
+
 <!-- | Day       | Opening Hours   |
 | --------- | --------------- |
 | Tuesday   | 8:30am - 5:00pm |

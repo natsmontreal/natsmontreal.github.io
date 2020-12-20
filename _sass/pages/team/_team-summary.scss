@@ -14,7 +14,7 @@
   }
   .team-meta {
     flex: 1;
-    h2 {
+    h3 {
       margin: 0;
       font-size: 22px;
       font-weight: normal;
@@ -34,7 +34,7 @@
 }
 
 .team-summary-large {
-  background-color: $white-offset;
+  background-color: #efefef;
   padding: 30px;
   border-radius: 3px;
   .team-image {

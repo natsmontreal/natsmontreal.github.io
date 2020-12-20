@@ -1,24 +1,24 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'NATS Montreal'
+title: 'NATS Montréal'
 
 google_analytics_id: ""
 homepage:
   show_call_box: false
 logo:
-  mobile: "images/logo/logo-mobile.gif"
+  mobile: "images/logo/logo.gif"
   desktop: "images/logo/logo.gif"
   desktop_height: "36px"
 footer:
   copyright_text: ''
 
 seo:
-  meta_og_title: "NATS Montral"
+  meta_og_title: "NATS Montréal"
   meta_og_type: "website"
   meta_og_url: "natsmontreal.github.io"
   meta_og_image: ""
-  meta_og_description: "NATS Montreal Chapître"
+  meta_og_description: "NATS Montréal Chapitre"
   meta_twitter_card: "summary"
   meta_twitter_site: ""
   meta_twitter_creator: ""

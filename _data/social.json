@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "",
-    "image": "images/social/github.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/NATS-International-Chapitre-Montreal-564989387191449",
+    "image": "images/social/facebook.svg"
   },
   {
     "name": "Twitter",
-    "link": "",
+    "link": "https://twitter.com/NATSMontreal",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/natsmontreal/",
+    "image": "images/social/instagram.svg"
   }
 ]
