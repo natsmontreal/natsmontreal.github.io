@@ -4,6 +4,9 @@ layout: contact
 bodyClass: page-contact
 ---
 
+### General Inquiries:  
+montrealnats[at]gmail.com  
+
 ### President: 
 J. Marchand Knight  
 juanita.marchand[at]gmail.com
@@ -19,7 +22,8 @@ Susan Blyth-Schofield
 sblythschofield[at]yahoo.ca
 
 
-## Follow us on social media:
+## Follow us on social media:  
+@NATSMTL  
 <a href="https://www.facebook.com/NATS-International-Chapitre-Montreal-564989387191449">Facebook</a> | <a href="https://twitter.com/NATSMontreal">Twitter</a> | <a href="https://www.instagram.com/natsmontreal/">Instagram</a>  
 
 <!-- | Day       | Opening Hours   |

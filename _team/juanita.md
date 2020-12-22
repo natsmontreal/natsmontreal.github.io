@@ -2,7 +2,7 @@
 title: "J. Marchand Knight"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: ""
+image: "images/team/Juanita.png"
 jobtitle: "President/Président.e <br> (They/them/theirs/iel)"
 linkedinurl: "https://www.juanitamarchand.com/"
 promoted: true

@@ -10,3 +10,4 @@ weight: 4
 layout: team
 ---
 
+Mike Fan is a Chinese-Canadian classical tenor whose performs opera and art song in ten languages. They have performed across Canada, the US, Europe, and Australia. Polyglot and polymath, Mike brings a strong intellect, versatility and empathy to their lessons, teaching piano, sciences, maths, theatre, and languages in addition to voice and life coaching.
