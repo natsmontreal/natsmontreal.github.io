@@ -24,7 +24,7 @@ If selected, you will be asked to sign a video release and provide a short bio a
 <li>Applicant is a student in a voice-related area (preference given to students of NATS Montreal members)</li>
 <li>Nature of presentation: 
     <ul>
-    <li> originality of topic</li>
+    <li>originality of topic</li>
     <li>relevance to NATS</li>
     </ul></li>
 </ul>
