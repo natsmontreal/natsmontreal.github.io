@@ -1,6 +1,6 @@
 main:
-  - name: "CALL FOR PAPERS"
-    url: "/cfp/"
+  - name: "Research & Cocktails"
+    url: "/rnc/"
     weight: 1
   - name: "Home"
     url: "/"
@@ -19,8 +19,8 @@ main:
     weight: 6
 
 footer:
-  - name: "CALL FOR PAPERS"
-    url: "/cfp/"
+  - name: "Research & Cocktails"
+    url: "/rnc/"
     weight: 1
   - name: "Home"
     url: "/"
