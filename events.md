@@ -16,8 +16,8 @@ Description: Join us to honour World Voice Day!
 Saturday, 17 April 2021, 11:00am-1:00pm EST  
 Where: Zoom  
 Description: Workshop from questions generated at 20 Feb (Part I)  
-Note: This is also the submission deadline for <a href="https://natsmontreal.ca/cfp/"><i>Cocktails & Research</i></a> (11:59pm EST)
-<br><a href="https://natsmontreal.ca/cfp/"><i>Submit your application here!</i></a>
+<!--Note: This is also the submission deadline for <a href="https://natsmontreal.ca/rnc/"><i>Research & Cocktails</i></a> (11:59pm EST)
+<br><a href="https://natsmontreal.ca/cfp/"><i>Submit your application here!</i></a>-->
   
 Bonne vacances! — <i><b>5 à 7 - W(h)ine & Whimpers</b></i>  
 Friday, 23 April 2021, 5:00pm to 7:00pm EST  
@@ -25,11 +25,11 @@ Where: Zoom and/or Gathertown
 Description: We made it! Socializing and kvetching session for voice teachers.  
   
 ### May 2021  
-<i><b>Cocktails & Research</b></i>  
+<i><b>Research & Cocktails</b></i>  
 Friday, 21 May 2021, 7:00pm-9:00pm    
 Where: Zoom/Slack  
-Description: Student research evening <a href="https://natsmontreal.ca/cfp/"><i>Cocktails & Research</i></a>
-<br>(Submission due date is 17 April 2021 @ 11:59pm EST) <a href="https://natsmontreal.ca/cfp/"><i>Submit your application here!</i></a>
+Description: Student research evening <a href="https://natsmontreal.ca/rnc/"><i>Research & Cocktails</i></a>
+<br>(Submission due date is 17 April 2021 @ 11:59pm EST) <!--<a href="https://natsmontreal.ca/cfp/"><i>Submit your application here!</i></a>-->
   
 ### June 2021  
 <i><b>Coffee Talks, Voice Teachers Discussion Group</b></i>  
